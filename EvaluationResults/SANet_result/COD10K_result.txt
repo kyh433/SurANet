@@ -1,0 +1,1 @@
+(Dataset:COD10K; Model:SANet) Smeasure:0.835; wFmeasure:0.724;MAE:0.031; adpEm:0.896; meanEm:0.906; maxEm:0.916; adpFm:0.734; meanFm:0.758; maxFm:0.779.

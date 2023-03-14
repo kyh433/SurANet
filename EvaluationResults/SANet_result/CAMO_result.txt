@@ -1,0 +1,1 @@
+(Dataset:CAMO; Model:SANet) Smeasure:0.830; wFmeasure:0.762;MAE:0.064; adpEm:0.890; meanEm:0.886; maxEm:0.898; adpFm:0.802; meanFm:0.800; maxFm:0.810.

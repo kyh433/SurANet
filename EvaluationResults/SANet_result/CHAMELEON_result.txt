@@ -1,0 +1,1 @@
+(Dataset:CHAMELEON; Model:SANet) Smeasure:0.899; wFmeasure:0.841;MAE:0.025; adpEm:0.945; meanEm:0.956; maxEm:0.971; adpFm:0.844; meanFm:0.857; maxFm:0.878.
