@@ -1,0 +1,1 @@
+(Dataset:CHAMELEON; Model:SINet_V2_selfattention) Smeasure:0.886; wFmeasure:0.806;MAE:0.033; adpEm:0.926; meanEm:0.939; maxEm:0.962; adpFm:0.811; meanFm:0.829; maxFm:0.859.

@@ -1,0 +1,1 @@
+(Dataset:CAMO; Model:SINet_V2_selfattention) Smeasure:0.820; wFmeasure:0.737;MAE:0.073; adpEm:0.874; meanEm:0.876; maxEm:0.891; adpFm:0.775; meanFm:0.779; maxFm:0.798.

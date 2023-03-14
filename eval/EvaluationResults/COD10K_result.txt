@@ -1,0 +1,1 @@
+(Dataset:COD10K; Model:SINet_V2_selfattention) Smeasure:0.808; wFmeasure:0.663;MAE:0.039; adpEm:0.854; meanEm:0.879; maxEm:0.900; adpFm:0.666; meanFm:0.704; maxFm:0.737.
