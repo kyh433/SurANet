@@ -317,7 +317,7 @@ if __name__ == '__main__':
     parser.add_argument('--clip', type=float, default=0.5, help='gradient clipping margin')
     parser.add_argument('--decay_rate', type=float, default=0.1, help='decay rate of learning rate')
     parser.add_argument('--decay_epoch', type=int, default=50, help='every n epochs decay learning rate')
-    parser.add_argument('--load', type=str, default="./snapshot/SINet_V2_convnext_doublefusion_sursup_compare_Stack_DetachRFB/Net_epoch_best.pth", help='train from checkpoints')
+    parser.add_argument('--load', type=str, default="./snapshot/SANet/Net_epoch_best.pth", help='train from checkpoints')
     # parser.add_argument('--load', type=str, default=None, help='train from checkpoints')
     # parser.add_argument('--gpu_id', type=str, default='0', help='train use gpu')
     parser.add_argument('--train_root', type=str, default='./Dataset/TrainValDataset/',
@@ -325,7 +325,7 @@ if __name__ == '__main__':
     parser.add_argument('--val_root', type=str, default='./Dataset/TestDataset/CAMO/',
                         help='the test rgb images root')
     parser.add_argument('--save_path', type=str,
-                        default='./snapshot/SINet_V2_convnext_doublefusion_sursup_compare_Stack_DetachRFB/',
+                        default='./snapshot/SANet/',
                         help='the path to save model and log')
     group_gpus = parser.add_mutually_exclusive_group()
     group_gpus.add_argument(
