@@ -1,5 +1,3 @@
-# author: Daniel-Ji (e-mail: gepengai.ji@gmail.com)
-# data: 2021-01-16
 import os
 import torch
 import torch.nn.functional as F
