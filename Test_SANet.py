@@ -11,7 +11,7 @@ from utils.data_val_edge_surround_tri import test_dataset
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--testsize', type=int, default=352, help='testing size')
-parser.add_argument('--pth_path', type=str, default='./snapshot/SINet_V2_convnext_doublefusion_sursup_compare_Stack_DetachRFB/Net_epoch_best.pth')
+parser.add_argument('--pth_path', type=str, default='./snapshot/SANet/Net_epoch_best.pth')
 opt = parser.parse_args()
 
 for _data_name in ['CAMO', 'COD10K', 'CHAMELEON']:
